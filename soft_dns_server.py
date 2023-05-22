@@ -77,3 +77,12 @@ class SoftDnsServer:
             else:
                 print("Invalid choice. Try again.")
 
+
+
+
+if __name__ == "__main__":
+    server = SoftDnsServer()
+    try:
+        server.run()
+    except KeyboardInterrupt:
+        sys.exit(0)

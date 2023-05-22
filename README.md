@@ -9,7 +9,7 @@ Navigate to the directory where you have cloned or downloaded the repository:
 3. Install the necessary dependencies from the requirements.txt file:  
 `pip install -r requirements.txt`  
 4. Run Server or Tests  
-`python main.py`  # Run Server  
+`python soft_dns_server.py`  # Run Server  
 `python test_soft_dns_server.py` # Run Tests
 
 ## Justification of selected approach

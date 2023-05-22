@@ -7,7 +7,7 @@ __pycache__/
 .env
 
 # Virtual Environment
-venv/
+rr_assignment_env/
 pyvenv.cfg
 
 # Miscellaneous
