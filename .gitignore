@@ -1,0 +1,18 @@
+# created by virtualenv automatically
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.env
+
+# Virtual Environment
+venv/
+pyvenv.cfg
+
+# Miscellaneous
+.DS_Store
+*.log
+*.swp
+*.swo
+tmp/
